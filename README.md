@@ -1,4 +1,4 @@
 # HelloWorld
 My very first project on Git.
 
-Haha! I did some changes here.
+I made some other changes regarding to fix#1.
